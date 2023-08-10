@@ -34,7 +34,7 @@ Scott Holder is a hydrologist in the Watershed Resources and Technology Division
 [Drought Record](https://datawrapper.dwcdn.net/MFw5N/2/)
 ## Data Analysis:
 **1. What is the mean drought level for each year?<br>**
-1. I made a new sheet for the mean drought levels each year and typed in the AVERAGE function to pull data from the drought level sheet and calculate the averages for each drought level each year.<br>
+		1. I made a new sheet for the mean drought levels each year and typed in the AVERAGE function to pull data from the drought level sheet and calculate the averages for each drought level each year.<br>
 **2. What 5 years are the driest?<br>**
 2016, 2015, 2014, 2021, 2017<br>
 1. Based on yearly averages for category D4 drought since D4 is the most severe category for drought. I put D4 yearly averages in alphabetical order from Z-A.<br>
