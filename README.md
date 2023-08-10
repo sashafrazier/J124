@@ -20,7 +20,6 @@ Scott Holder is a hydrologist in the Watershed Resources and Technology Division
 ## Additional Sources:
 1. *Public Works “Old-Timer” Rainfall Chart*<br>
 [Public Works “Old-Timer” Rainfall Chart](https://vcwatershed.net/hydrodata/chart/?site=030)
-
 	   a. I would use this source to highlight that 2021 had the lowest rainfall in Ojai Record. This is significant because in 2021, the population growth rate decreased and is projected to maintain a negative rate from that point on.
 2. *Ojai Water Budget Breakdown*<br>
 ![Ojai Water Budget Breakdown](https://1.bp.blogspot.com/_gPTpZ6ajSsk/S9YrjU7zgGI/AAAAAAAAB9I/3VmRrJXIkmw/s1600/Picture+33.png)
