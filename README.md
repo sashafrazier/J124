@@ -29,3 +29,6 @@ Scott Holder is a hydrologist in the Watershed Resources and Technology Division
 1. ![Ojai Population Data Vis](https://github.com/sashafrazier/J124/assets/140098794/6e00e6e9-0e0a-4739-a14c-4c38f5e9ab5c)
    1. *Ojai Population*<br>
 [Ojai Population](https://datawrapper.dwcdn.net/VzHQJ/1/)
+2. ![Drought Record Data Vis](https://github.com/sashafrazier/J124/assets/140098794/ec1ad911-33bc-4edf-a767-90b6b351e87d)
+      1. *Drought Record*<br>
+[Drought Record](https://datawrapper.dwcdn.net/MFw5N/2/)
