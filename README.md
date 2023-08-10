@@ -19,5 +19,6 @@ Email: pwa.hydrodata@ventura.org
 	Scott Holder is a hydrologist in the Watershed Resources and Technology Division who can explain the irregularity of the low rainfall counts. He can provide a professional testimony on the effects these records have on plant life and crops in Ojai Valley. This is his area of expertise. 
 ## Additional Sources:
 1. Public Works “Old-Timer” Rainfall Chart
+
 [Public Works Chart] (https://vcwatershed.net/hydrodata/chart/?site=030)
 2. 
