@@ -33,6 +33,8 @@ Scott Holder is a hydrologist in the Watershed Resources and Technology Division
 [Drought Record](https://datawrapper.dwcdn.net/MFw5N/2/)
 ## Data Analysis:
 1. **What is the mean drought level for each year?**
+    ![Image 8-9-23 at 9 57 AM](https://github.com/sashafrazier/J124/assets/140098794/6fa8f652-9fe6-4439-a99f-760c3044fa74)
+
     1. I made a new sheet for the mean drought levels each year and typed in the AVERAGE function to pull data from the drought level sheet and calculate the averages for each drought level each year.<br>
 2. **What 5 years are the driest?**
     1. 2016, 2015, 2014, 2021, 2017<br>
@@ -55,8 +57,12 @@ I then selected the growth rates for the top 5 driest seasons and changed the gr
     1. These are both significantly smaller than the overall average<br>
     2. To find the overall average growth rate, for years that have precipitation data (up until 2023), I selected the population column data for 2000-2023 in the Ojai Population sheet and pressed the ‘Avg’ icon. It said: 0.90%<br>
 7.  **What are the population speculations for the highest utility costs?**
+![Image 8-9-23 at 4 44 PM](https://github.com/sashafrazier/J124/assets/140098794/0dc21e83-091d-4d34-802a-2dd294c88449)
+
     1. I cleaned the Rate data by putting it in a new sheet with the year as a row and the meter sizes as columns. This way I could compare the rate per year to the population per year. I added Population data to this table<br>
     2. I then made a pivot table so I could compare just the 12-inch water meter rates per year to the population. I selected the 12-inch water meter because it is typically used for large gardens and ranches. <br>
 8.  **What is the drought history of the last 5 years?**
+![Image 8-9-23 at 4 49 PM](https://github.com/sashafrazier/J124/assets/140098794/d797309f-0546-4ba1-aff0-7259c60a36a2)
+
     1. I sorted the Mean Drought table from Z-A.
 
