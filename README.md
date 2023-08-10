@@ -25,4 +25,5 @@ Scott Holder is a hydrologist in the Watershed Resources and Technology Division
 2. *Ojai Water Budget Breakdown*<br>
 ![Ojai Water Budget Breakdown](https://1.bp.blogspot.com/_gPTpZ6ajSsk/S9YrjU7zgGI/AAAAAAAAB9I/3VmRrJXIkmw/s1600/Picture+33.png)
    1. I would use this source as context at the beginning of my story to show how the majority of water use is agriculture, helping explain the importance of water to local ranchers and farmers.  
-
+## Data Visualization:
+1. 
