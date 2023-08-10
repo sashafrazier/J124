@@ -9,12 +9,10 @@ Ojai has been experiencing increased drought conditions the past couple years. I
 Phone: (805)896-7995
 Email: gotbeef@watkinscattleco.com
 Shane Watkins is a local rancher and butcher who moved out of Ojai due to increased water rates and dying crops, making it impossible to afford to feed cattle. He gives a first-hand account of the drought crisis making Ojai inhospitable for ranchers, causing them to relocate. 
-
 2. Rachelle Giuliani - Tonya Peralta Real Estate
 Phone: (805)746-5188
 Email: rachelle@PeraltaTeam.com
 Rachelle Guiliani is a local real estate agent who can testify on her client’s reasons for selling and moving out of the valley. She can lay the groundwork for the draw of Ojai’s land and gardens and explain that if these are inaccessible or unaffordable, people are having to leave and move elsewhere.
-
 3. Scott Holder - VC Watershed, Watershed Resources and Technology Division
 Phone: (805)766-9383
 Email: pwa.hydrodata@ventura.org
