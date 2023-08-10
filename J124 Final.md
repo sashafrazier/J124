@@ -66,3 +66,21 @@ I then selected the growth rates for the top 5 driest seasons and changed the gr
 
     1. I sorted the Mean Drought table from Z-A.
 
+##Works Cited
+*World Population Review*
+[World Population Review](https://worldpopulationreview.com/us-cities/ojai-ca-population)
+
+*NIDIS*
+[NIDIS](https://www.drought.gov/states/california/county/ventura)
+
+*City of Ventura*
+[City of Ventura](https://www.cityofventura.ca.gov/DocumentCenter/View/26850/2021-Cost-of-Service-and-Rate-Design-Study-Report)
+
+*VC Watershed*
+[VC Watershed](https://vcwatershed.net/fws/reports/wettest-driest-report)
+
+*Ventura River*
+[Ventura River](https://www.venturariver.org/2010/04/watershed-u-presentation.html)
+
+*VC Watershed*
+[VC Watershed](https://vcwatershed.net/hydrodata/chart/?site=030)
