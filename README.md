@@ -34,30 +34,30 @@ Scott Holder is a hydrologist in the Watershed Resources and Technology Division
 [Drought Record](https://datawrapper.dwcdn.net/MFw5N/2/)
 ## Data Analysis:
 **1. What is the mean drought level for each year?<br>**
-		1. I made a new sheet for the mean drought levels each year and typed in the AVERAGE function to pull data from the drought level sheet and calculate the averages for each drought level each year.<br>
+1. I made a new sheet for the mean drought levels each year and typed in the AVERAGE function to pull data from the drought level sheet and calculate the averages for each drought level each year.<br>
 **2. What 5 years are the driest?<br>**
-	2016, 2015, 2014, 2021, 2017<br>
-		1. Based on yearly averages for category D4 drought since D4 is the most severe category for drought. I put D4 yearly averages in alphabetical order from Z-A.<br>
+2016, 2015, 2014, 2021, 2017<br>
+1. Based on yearly averages for category D4 drought since D4 is the most severe category for drought. I put D4 yearly averages in alphabetical order from Z-A.<br>
 **3. What is the mean growth rate of the driest years?<br>**
 0.13%<br>
-		1. I started by writing a VLOOKUP function to find projected population growth for the top 5 driest years. 
+1. I started by writing a VLOOKUP function to find projected population growth for the top 5 driest years. 
 I used A2 as my search key because that was the first input in the range. 
 My range is ‘Ojai Population’ A2 : D29 because I needed the years and growth rates from the Ojai Population sheet. 
 4 is the index because column D is where the growth rate is listed and D is the 4th letter.
 Finally, it is false because I need the exact match of years, not approximations. <br>
 I then selected the growth rates for the top 5 driest seasons and changed the green icon at the bottom from ‘Sum’ to ‘Avg’ and got 0.13%<br>
 **4. What is the growth rate of the year with the least amount of precipitation?<br>**
-	-0.32%<br>
-		1. I found the year with the least amount of precipitation (2021) and found at the population growth rate for 2021: -0.32%<br>
+-0.32%<br>
+1. I found the year with the least amount of precipitation (2021) and found at the population growth rate for 2021: -0.32%<br>
 **5. What is the average population growth rate from the day with the lowest precipitation, onward?<br>**
 -0.32%<br>
-		1. I went to the Ojai Population sheet and selected years 2021-2023 because the precipitation data only goes through 2023, and I selected the little ‘Avg’ icon in the bottom left of the screen and it said: -0.32%<br>
+1. I went to the Ojai Population sheet and selected years 2021-2023 because the precipitation data only goes through 2023, and I selected the little ‘Avg’ icon in the bottom left of the screen and it said: -0.32%<br>
 **6. How do these compare to the overall average growth rate?<br>**
 These are both significantly smaller than the overall average<br>
-		1. To find the overall average growth rate, for years that have precipitation data (up until 2023), I selected the population column data for 2000-2023 in the Ojai Population sheet and pressed the ‘Avg’ icon. It said: 0.90%<br>
+1. To find the overall average growth rate, for years that have precipitation data (up until 2023), I selected the population column data for 2000-2023 in the Ojai Population sheet and pressed the ‘Avg’ icon. It said: 0.90%<br>
 **7.  What are the population speculations for the highest utility costs?<br>**
-		1. I cleaned the Rate data by putting it in a new sheet with the year as a row and the meter sizes as columns. This way I could compare the rate per year to the population per year. I added Population data to this table<br>
+1. I cleaned the Rate data by putting it in a new sheet with the year as a row and the meter sizes as columns. This way I could compare the rate per year to the population per year. I added Population data to this table<br>
 b. I then made a pivot table so I could compare just the 12-inch water meter rates per year to the population. I selected the 12-inch water meter because it is typically used for large gardens and ranches. <br>
 **8.  What is the drought history of the last 5 years?<br>**
-		1. I sorted the Mean Drought table from Z-A.
+1. I sorted the Mean Drought table from Z-A.
 
