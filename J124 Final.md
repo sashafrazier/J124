@@ -66,7 +66,7 @@ I then selected the growth rates for the top 5 driest seasons and changed the gr
 
     1. I sorted the Mean Drought table from Z-A.
 
-# Works Cited
+## Works Cited
 
 *World Population Review*
 [World Population Review](https://worldpopulationreview.com/us-cities/ojai-ca-population)
