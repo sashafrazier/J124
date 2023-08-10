@@ -19,7 +19,8 @@ Email: pwa.hydrodata@ventura.org<br>
 Scott Holder is a hydrologist in the Watershed Resources and Technology Division who can explain the irregularity of the low rainfall counts. He can provide a professional testimony on the effects these records have on plant life and crops in Ojai Valley. This is his area of expertise. 
 ## Additional Sources:
 1. *Public Works “Old-Timer” Rainfall Chart*<br>
-[Public Works Chart](https://vcwatershed.net/hydrodata/chart/?site=030)
+[Public Works “Old-Timer” Rainfall Chart](https://vcwatershed.net/hydrodata/chart/?site=030)
 
    1. I would use this source to highlight that 2021 had the lowest rainfall in Ojai Record. This is significant because in 2021, the population growth rate decreased and is projected to maintain a negative rate from that point on.
-2. 
+2. *Ojai Water Budget Breakdown*<br>
+![Ojai Water Budget Breakdown]([https://vcwatershed.net/hydrodata/chart/?site=030](https://1.bp.blogspot.com/_gPTpZ6ajSsk/S9YrjU7zgGI/AAAAAAAAB9I/3VmRrJXIkmw/s1600/Picture+33.png)https://1.bp.blogspot.com/_gPTpZ6ajSsk/S9YrjU7zgGI/AAAAAAAAB9I/3VmRrJXIkmw/s1600/Picture+33.png)
