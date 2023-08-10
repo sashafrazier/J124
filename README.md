@@ -20,4 +20,5 @@ Email: pwa.hydrodata@ventura.org
 ## Additional Sources:
 1. *Public Works “Old-Timer” Rainfall Chart*<br>
 [Public Works Chart](https://vcwatershed.net/hydrodata/chart/?site=030)
-2. 
+		1. I would use this source to highlight that 2021 had the lowest rainfall in Ojai Record. This is significant because in 2021, the population growth rate decreased and is projected to maintain a negative rate from that point on.
+3. 
