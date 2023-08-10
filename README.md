@@ -5,7 +5,7 @@ While sunny Ojai, CA is most widely known as a tourist destination, is also a hu
 
 Ojai has been experiencing increased drought conditions the past couple years. In 2021, Ojai received its lowest amount of rainfall on record according to VC Watershed and the 5 driest years recorded have all been within the last 10 years according to NIDIS. As a result of this, water rates have been increasing, making it more difficult for ranchers to afford their utility bills. These increased utility bills, leading to the inability to grow crops and feed livestock, has forced ranchers to move out of Ojai and take their farming elsewhere. According to World Population Review, recent population projections reflect this phenomenon as population growth rates are set to decrease, starting with 2021.
 ## Contacts:
-1. Shane Watkins - Watkins Cattle Company
+1. Shane Watkins - Watkins Cattle Company/n
 Phone: (805)896-7995
 Email: gotbeef@watkinscattleco.com
 Shane Watkins is a local rancher and butcher who moved out of Ojai due to increased water rates and dying crops, making it impossible to afford to feed cattle. He gives a first-hand account of the drought crisis making Ojai inhospitable for ranchers, causing them to relocate. 
